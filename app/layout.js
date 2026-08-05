@@ -9,6 +9,9 @@ export const metadata = {
     "BAARA Azabu -jubanは、麻布十番駅近くで国産フルーツ、ハーブ、お茶を生かしたオリジナルカクテルと料理を楽しめるバーです。営業時間、アクセス、予約、メニューをご案内します。",
   alternates: { canonical: "/" },
   robots: { index: true, follow: true },
+  verification: {
+    google: "ayHXvvh7MAYyEd0yabm5xYrI98qeN_1bfcLkvUPkbrM",
+  },
   openGraph: {
     type: "website",
     locale: "ja_JP",
